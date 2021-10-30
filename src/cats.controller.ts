@@ -1,5 +1,4 @@
 import { Controller, Get, Req } from '@nestjs/common';
-import Request from 'fastify';
 
 @Controller('cats')
 export class CatsController {
