@@ -71,5 +71,7 @@
   "main": "index.js",
   "repository": "https://github.com/shogo-nakano-desu/NestJS-tutorial.git",
   "packageManager": "yarn@3.0.0",
-  "workspaces" : ["packages/*"]
+  "workspaces": [
+    "packages/*"
+  ]
 }
